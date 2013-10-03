@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  location: MyString
+  contact_name: MyString
+  contact_phone: MyString
+  notes: MyText
+  type: 
+  officers_involved: MyText
+
+two:
+  location: MyString
+  contact_name: MyString
+  contact_phone: MyString
+  notes: MyText
+  type: 
+  officers_involved: MyText
